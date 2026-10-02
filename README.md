@@ -7,16 +7,16 @@
 ## Tabela de Exercícios e Comprovações
 
 | 01 | Introdução ao HTML | Como criar títulos e sub-titulos | Como diferenciar o texto principal do secundario.
- | Aprovado | [**Ver Imagem**](../prints/print_01.png) |
+ | Aprovado | [**Ver Imagem**](./prints/print_01.png) |
 
 | 02 | Debug Camperbot's Profile Page | [Concertar problemas no código e compreensão básica de parágrafos]
-| Aprovado | [**Ver Imagem**](../prints/2.png) |
+| Aprovado | [**Ver Imagem**](./prints/2.png) |
 
 | 03 | Building a CatPhoto App | [Passo a passo da criação do Site, mostrando linha por linha a construção e correção de problemas]
-| Aprovado | [**Ver Imagem**](../prints/print_3.png) |
+| Aprovado | [**Ver Imagem**](./prints/print_3.png) |
 
 | 04 | Visão geral de todo o progresso | [Aqui mostra o progresso e os 31 passos completos]
-| Aprovado | [**Ver Imagem**](../prints/print_4.png) |
+| Aprovado | [**Ver Imagem**](./prints/print_4.png) |
 
 ---
 ## Resumo dos Conceitos Praticados
